@@ -1,4 +1,4 @@
 
 BrancheTest
 
-personel use only
+personal use only
